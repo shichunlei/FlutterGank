@@ -52,7 +52,7 @@ samples, guidance on mobile development, and a full API reference.
 **[shared_preferences](https://github.com/flutter/plugins/tree/master/packages/shared_preferences)**|**本地数据缓存**
 **fluttertoast**|**toast**
 **flutter_redux**|**redux**
-**device_info**|**设备信息**
+**[device_info](https://github.com/flutter/plugins/tree/master/packages/device_info)**|**设备信息**
 **connectivity**|**网络链接**
 **flutter_markdown**|**markdown解析**
 **json_annotation**|**json模板**
@@ -60,8 +60,8 @@ samples, guidance on mobile development, and a full API reference.
 **url_launcher**|**启动外部浏览器**
 **iconfont**|**字库图标**
 **share**|**系统分享**
-**flutter_spinkit**|**加载框样式**
-**get_version**|**版本信息**
+**[flutter_spinkit](https://github.com/jogboms/flutter_spinkit)**|**加载框样式**
+**[get_version](https://github.com/AppleEducate/get_version)**|**版本信息**
 **[flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)**|**全屏的webview**
 **sqflite**|**数据库**
 **flutter_statusbar**|**状态栏**
@@ -76,6 +76,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ### 截图
 
-| ![1](https://upload-images.jianshu.io/upload_images/3278692-49ee97b13c954c7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![2](https://upload-images.jianshu.io/upload_images/3278692-86a01b954f47b677.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![3](https://upload-images.jianshu.io/upload_images/3278692-c40528ed4748938a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![4](https://upload-images.jianshu.io/upload_images/3278692-5674f9df10aa7b86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![5](https://upload-images.jianshu.io/upload_images/3278692-f6c30e6faa2b5512.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |![6](https://upload-images.jianshu.io/upload_images/3278692-f6c30e6faa2b5512.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |
+| ![1](https://github.com/shichunlei/FlutterGank/blob/master/Screenshot/Screenshot_2019-01-16-17-08-58-750_com.chingsoft..png) | ![2](https://github.com/shichunlei/FlutterGank/blob/master/Screenshot/Screenshot_2019-01-16-17-09-09-403_com.chingsoft..png) | ![3](https://github.com/shichunlei/FlutterGank/blob/master/Screenshot/Screenshot_2019-01-16-17-09-24-151_com.chingsoft..png) | ![4](https://github.com/shichunlei/FlutterGank/blob/master/Screenshot/Screenshot_2019-01-16-17-09-33-157_com.chingsoft..png) | ![5](https://github.com/shichunlei/FlutterGank/blob/master/Screenshot/Screenshot_2019-01-16-17-10-11-812_com.chingsoft..png) |![6](https://github.com/shichunlei/FlutterGank/blob/master/Screenshot/Screenshot_2019-01-16-17-09-42-784_com.chingsoft..png) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 每日干货 | 分类干货 | 个人中心 | 福利社区 | 闲读列表 | 历史干货 |
