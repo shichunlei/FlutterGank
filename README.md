@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 2、clone代码，执行`Packages get`安装第三方包。(因为某些不可抗力原因，国内可能需要设置代理: 
 [代理环境变量](https://flutterchina.club/setup-windows/))
+
 3、android studio、XCode、VScode、IDEA都可以
 
 ## 特别感谢
@@ -39,7 +40,7 @@ samples, guidance on mobile development, and a full API reference.
 - [Flutter 社区中文资源](https://flutter-io.cn/)
 - [阿里巴巴 flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 ](https://github.com/alibaba/flutter-go)
-。。。
+- ...
 
 
 ### 第三方框架
